@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+tmp/
+
+# Local runtime artifacts and backups
+sessions_backup_*/
+archive/
+recovery_rebuilt/
+recovery_snapshot_*/
+_pre_strip_sizes.json
+
+# Editor
+.idea/
+.vscode/
+*.swp
